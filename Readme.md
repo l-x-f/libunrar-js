@@ -7,6 +7,7 @@ Emscripten port of RARLab's open-source unrar library
 1. Compiled with unrar 5.9.2.   
 2. Added WorkerFS version.  
 3. Simple build.sh script.  
+4. Wasm version
   
 # How to use  
 1. Visit http://wcchoi.github.io/libunrar-js/  
